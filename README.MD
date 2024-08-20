@@ -1,0 +1,1 @@
+添加依赖：[![](https://jitpack.io/v/StormGens/EasyLibrary.svg)](https://jitpack.io/#StormGens/EasyLibrary)
