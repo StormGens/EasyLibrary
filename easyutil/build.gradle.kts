@@ -51,7 +51,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.StormGens"
                 artifactId = "easy-library"
-                version = "1.6.19"
+                version = "0.0.1"
             }
         }
     }
